@@ -1,5 +1,6 @@
 # Legal-Document-Analyser
 It is gonna to analyze the document and then provide summary in a manual language.
+
 #Tools used in Analyzer
 1. EasyOCR
 2. Tranformer Pipeline
